@@ -2,6 +2,9 @@
 
 Welcome to the Calculator Project! This project is part of The Odin Project curriculum and focuses on building a functional and interactive calculator. The main goal of this project is to apply JavaScript skills and understand the essential principles of building a web application.
 
+## Live Demo
+Check out the live demo of the project here: [Calculator Live Demo](https://garychamp.github.io/the-odin-project-calculator/)
+
 ## Features
 - Basic operations: addition, subtraction, multiplication, and division.
 - User-friendly interface with a keyboard-like layout.
